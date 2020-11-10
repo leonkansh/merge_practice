@@ -12,6 +12,7 @@
 - info360 goes pretty well
 - Built a user journey map and press release
 - I learned a lot
+  -wowow!
 
 # Ian's updates
 - info290 resume review also went pretty well
@@ -20,11 +21,12 @@
   - Good for you Ian!! (From Leon)
 
 # Messages
-*CONVERSATION HAS BEEN CLOSED BY LEON*
+***CONVERSATION HAS BEEN CLOSED BY LEON***
 
 # TODO
 > Feel free to add more tasks here :)
 
-- 201: brainstorming meeting
 - 200: Contemporary Social Issue Paper
+  - I have not started yet...
+- 201: Brainstorming meeting/Create Repo
 - ......
