@@ -10,11 +10,17 @@
 
 # Leon's updates
 - info360 goes pretty well
-- Built a press release and user journey map
-- it was so much fun there
+- Built a user journey map and press release
+- I learned a lot
+
+# Ian's updates
+- info290 resume review also went pretty well
+- got feedback on my resume
+- also had a chat about industry and consulting with my contact
+  - Good for you Ian!! (From Leon)
 
 # Messages
-*CONVERSATION IS CLOSED BY LEON*
+*CONVERSATION HAS BEEN CLOSED BY LEON*
 
 # TODO
 > Feel free to add more tasks here :)
