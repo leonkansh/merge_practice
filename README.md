@@ -14,4 +14,11 @@
 - it was so much fun there
 
 # Messages
-Leon: Welcome here!
+*CONVERSATION IS CLOSED BY LEON*
+
+# TODO
+> Feel free to add more tasks here :)
+
+- 201: brainstorming meeting
+- 200: Contemporary Social Issue Paper
+- ......
