@@ -12,7 +12,7 @@
 - info360 goes pretty well
 - Built a user journey map and press release
 - I learned a lot
-  -wowow!
+  - wowow!
 
 # Ian's updates
 - info290 resume review also went pretty well
@@ -29,4 +29,4 @@
 - 200: Contemporary Social Issue Paper
   - I have not started yet...
 - 201: Brainstorming meeting/Create Repo
-- ......
+- ...... EDIT THIS LINE FOR MERGE CONFLICTS 1 3 4 6 8 9 
