@@ -34,9 +34,12 @@
 ***CONVERSATION HAS BEEN STARTED BY LEON***
 
 Leon - My heater is dumb...
+
 Ian - Welcome Leslie!
 # TODO
 > Feel free to add more tasks here :)
 
 - 200: Contemporary Social Issue Paper
   - I have not started yet...
+- dinner
+- meeting w Anna at 2-4pm 11/13
