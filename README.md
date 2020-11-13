@@ -32,9 +32,11 @@
 
 # Messages
 ***CONVERSATION HAS BEEN STARTED BY LEON***
+
 Leon - My heater is dumb...
 Ian - Welcome Leslie!
 Leslie - thanks for collabing with me ^o^
+
 # TODO
 > Feel free to add more tasks here :)
 
