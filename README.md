@@ -10,7 +10,7 @@
 
 # Leslie says...
 - there's a lot to learn in info201
-- like how to use r and github 
+- like how to use r and github
 - asking questions about data
 
 # Leon's updates
@@ -24,7 +24,7 @@
 - got feedback on my resume
 - also had a chat about industry and consulting with my contact
   - Good for you Ian!! (From Leon)
-  
+
 # Leslie's updates
 - info200's paper is stressful
 - i got starbucks today
@@ -32,14 +32,15 @@
 
 # Messages
 ***CONVERSATION HAS BEEN STARTED BY LEON***
-
-Leon - Welcome Leslie!
-
+Leon - My heater is dumb...
+Ian - Welcome Leslie!
+Leslie - thanks for collabing with me ^o^
 # TODO
 > Feel free to add more tasks here :)
 
 - 200: Contemporary Social Issue Paper
   - I have not started yet...
+<<<<<<< HEAD
 - 201: Brainstorming meeting/Create Repo
 <<<<<<< HEAD
 - ...... EDIT THIS LINE FOR MERGE CONFLICTS 1 3 4 6 8 9
@@ -48,3 +49,5 @@ Leon - Welcome Leslie!
 - ...... EDIT THIS LINE FOR MERGE CONFLICTS 1 3 4 6 8 9
   - YES sir!! Have fun！
 >>>>>>> 3aa225576a3a76a0f75b9751c0dda5ff9c97d7e0
+=======
+>>>>>>> 038d9b731f46ab3faae334b20b64fe4278eb5c72
