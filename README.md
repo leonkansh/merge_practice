@@ -43,7 +43,7 @@ Leon - Welcome Leslie!
 - 201: Brainstorming meeting/Create Repo
 <<<<<<< HEAD
 - ...... EDIT THIS LINE FOR MERGE CONFLICTS 1 3 4 6 8 9
-  -asdf the fox jumped over the log
+  -lalalalalalallala
 =======
 - ...... EDIT THIS LINE FOR MERGE CONFLICTS 1 3 4 6 8 9
   - YES sir!! Have fun！
