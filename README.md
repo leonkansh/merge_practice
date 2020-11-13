@@ -39,3 +39,4 @@ Ian - Welcome Leslie!
 
 - 200: Contemporary Social Issue Paper
   - I have not started yet...
+  - I have started but idk how i should write the paragraph i'm on :(
