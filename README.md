@@ -36,10 +36,22 @@
 Leon - My heater is dumb...
 
 Ian - Welcome Leslie!
+
+Leslie - thanks for collabing with me ^o^
+
+Leon - Yayyy
+
 # TODO
 > Feel free to add more tasks here :)
 
 - 200: Contemporary Social Issue Paper
   - I have not started yet...
+  - I have started but idk what to write
+
+- 201: Brainstorming meeting/Create Repo
+
+- boba
+
 - dinner
+
 - meeting w Anna at 2-4pm 11/13
